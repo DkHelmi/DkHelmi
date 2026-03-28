@@ -8,13 +8,17 @@ Currently focused on **Network Forensics & Incident Response**. The approach: bu
 
 ### Active Project
 
-**[Security-Lab](https://github.com/DkHelmi/Security-Lab)** - A hands-on Security lab built from scratch on VirtualBox. Each investigation is a real attack chain: simulate → detect → analyze → document.
+**[Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab)** - A hands-on security lab built from scratch on VirtualBox. Structured into lab categories - each with its own investigations, documentation, and detection analysis.
+
+#### Adversary Emulation
+Full attack chain simulation - from initial access to domain compromise, monitored by Wazuh SIEM.
 
 | # | Case | Technique | Status |
 |---|------|-----------|--------|
 | 001 | Brute Force RDP Attack | T1110.001 | ✅ |
 | 002 | Suspicious PowerShell Execution | T1059.001 | ✅ |
 | 003 | Lateral Movement via WinRM | T1021.006 | ✅ |
+| 004 | Domain Recon & Password Spraying | T1087.002, T1110.003 | 🔄 |
 
 Stack: `Wazuh 4.9` `Sysmon` `Windows Server 2022` `Active Directory` `Kali Linux`
 
@@ -23,13 +27,11 @@ Stack: `Wazuh 4.9` `Sysmon` `Windows Server 2022` `Active Directory` `Kali Linux
 ### Roadmap
 
 ```
-   [✅] Security Investigation Lab - active (3 cases and counting)
-   [ ] Network Traffic Analysis
-   [ ] Network Security Monitoring
-   [ ] NFIR simulation
-   [ ] Malware triage & memory forensics
-   [ ] Cloud security monitoring
-   [ ] Cloud-focused detection lab
+   [✅] Adversary Emulation        - active (4 cases and counting)
+   [ ] Network Forensics           - PCAP analysis, C2 detection, IOC extraction
+   [ ] Network Security Monitoring - Zeek-based NSM, threat hunting
+   [ ] Incident Response           - end-to-end IR simulation (NIST framework)
+   [ ] Cloud Security              - AWS/Azure detection lab
 ```
 
 Lab first, always.
@@ -39,9 +41,10 @@ Lab first, always.
 ### Currently Learning
 
 - Log correlation & cross-host timeline reconstruction
+- Network traffic analysis - Wireshark, Zeek
 - Custom SIEM detection rules (Wazuh)
 - Active Directory attack paths & defenses
 
 ---
 
-*All lab work documented at [Security-Lab](https://github.com/DkHelmi/Security-Lab)*
+*All lab work documented at [Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab)*
