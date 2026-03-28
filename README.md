@@ -27,11 +27,11 @@ Stack: `Wazuh 4.9` `Sysmon` `Windows Server 2022` `Active Directory` `Kali Linux
 ### Roadmap
 
 ```
-   [✅] Adversary Emulation        - active (4 cases and counting)
-   [ ] Network Forensics           - PCAP analysis, C2 detection, IOC extraction
-   [ ] Network Security Monitoring - Zeek-based NSM, threat hunting
-   [ ] Incident Response           - end-to-end IR simulation (NIST framework)
-   [ ] Cloud Security              - AWS/Azure detection lab
+   [✅] Adversary Emulation        
+   [ ] Network Forensics           
+   [ ] Network Security Monitoring 
+   [ ] Incident Response           
+   [ ] Cloud Security              
 ```
 
 Lab first, always.
