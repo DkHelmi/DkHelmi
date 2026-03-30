@@ -1,42 +1,40 @@
 ## Hi, I'm Hardhika Helmi
 
-Security & Forensics Analyst in learning - building detection labs, simulating attacks, and learning how to investigate them properly.
+Security & Forensics Analyst - building detection labs, simulating
+attacks, and learning how to investigate them properly.
 
-Currently focused on **Network Forensics & Incident Response**. The approach: build a lab, break things, document what happened, repeat.
-
----
+Currently focused on NFIR (Network Forensics & Incident Response).
+The approach: build a lab, break things, document what happened, repeat.
 
 ### Active Project
 
-**[Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab)** - A hands-on security lab built from scratch on VirtualBox. Structured into lab categories - each with its own investigations, documentation, and detection analysis.
+**[Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab)**
+A hands-on security lab built from scratch on VirtualBox. Structured
+around attack campaigns - each campaign is one continuous intrusion
+story, not isolated exercises.
 
-#### Adversary Emulation
-Full attack chain simulation - from initial access to domain compromise, monitored by Wazuh SIEM.
+#### Campaign: Silent Pivot
+Opportunistic attacker, persistence-focused. Monitored by Wazuh SIEM.
 
-| # | Case | Technique | Status |
-|---|------|-----------|--------|
-| 001 | Brute Force RDP Attack | T1110.001 | ✅ |
-| 002 | Suspicious PowerShell Execution | T1059.001 | ✅ |
-| 003 | Lateral Movement via WinRM | T1021.006 | ✅ |
-| 004 | Domain Recon & Password Spraying | T1087.002, T1110.003 | 🔄 |
+| # | Investigation | Status |
+|---|---------------|--------|
+| 001 | Initial Recon | 📋 Planned |
+| 002 | Initial Access | 📋 Planned |
+| 003 | Execution | 📋 Planned |
+| 004 | Lateral Movement | 📋 Planned |
+| 005 | Domain Recon | 📋 Planned |
+| 006 | Persistence | 📋 Planned |
+| 007 | Credential Access | 📋 Planned |
 
 Stack: `Wazuh 4.9` `Sysmon` `Windows Server 2022` `Active Directory` `Kali Linux`
 
----
-
 ### Roadmap
 
-```
-   [✅] Adversary Emulation        
-   [ ] Network Forensics           
-   [ ] Network Security Monitoring 
-   [ ] Incident Response           
-   [ ] Cloud Security              
-```
-
-Lab first, always.
-
----
+    Adversary Emulation    [active]
+    Network Forensics      [planned]
+    Network Security Mon   [planned]
+    Incident Response      [planned]
+    Cloud Security         [planned]
 
 ### Currently Learning
 
@@ -44,7 +42,5 @@ Lab first, always.
 - Network traffic analysis - Wireshark, Zeek
 - Custom SIEM detection rules (Wazuh)
 - Active Directory attack paths & defenses
-
----
 
 *All lab work documented at [Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab)*
