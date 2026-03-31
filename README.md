@@ -16,13 +16,7 @@ conclusion, written as real-time investigator notes.
 
 Stack: `Wazuh 4.9` `Sysmon` `Windows Server 2022` `Active Directory` `Kali Linux`
 
-#### Cases
-
-| Case | Scenario | Status |
-|------|----------|--------|
-| [INC-001](https://github.com/DkHelmi/Security-Investigation-Lab/tree/main/INC-001-rdp-intrusion) | Password spray → RDP → WinRM lateral movement → persistence | ✅ Completed |
-| INC-002 | C2 beaconing via persistence dari INC-001 | 📋 Planned |
-| INC-003 | Living off the land, domain dominance | 📋 Planned |
+→ Case list dan status terbaru ada di [repo README](https://github.com/DkHelmi/Security-Investigation-Lab#cases)
 
 ### Roadmap
 
