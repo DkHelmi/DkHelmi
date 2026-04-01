@@ -1,40 +1,26 @@
-## Hi, I'm Hardhika Helmi
+## Hardhika Helmi
 
-Security & Forensics Analyst - building detection labs, simulating
-attacks, and investigating them from the defender side.
+Security analyst yang fokus di forensics dan incident response. Background di network engineering, sekarang transisi penuh ke DFIR.
 
-Currently focused on NFIR (Network Forensics & Incident Response).
-The approach: run a campaign, generate real evidence, then investigate
-starting from Wazuh alerts - not from knowing what the attacker did.
+Saat ini kerja sebagai Forensics Analyst (kontrak), sambil bangun lab investigasi sendiri untuk sharpen skill di area yang paling saya minati: rekonstruksi insiden dari evidence yang tersedia, bukan dari perspektif attacker.
 
-### Active Project
+### Apa yang Saya Kerjakan
 
-**[Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab)**  
-Hands-on security lab built on VirtualBox. Structured around incident
-cases - each case is a full investigation from alert triage to
-conclusion, written as real-time investigator notes.
+Saya simulate attack campaigns di lab environment (Active Directory, Wazuh SIEM, Sysmon), lalu investigasi dari sisi defender. Mulai dari alert, trace aktivitas, reconstruct timeline, identify detection gaps. Setiap case didokumentasikan sebagai catatan kerja investigator.
 
-Stack: `Wazuh 4.9` `Sysmon` `Windows Server 2022` `Active Directory` `Kali Linux`
+Hasil kerjanya ada di [Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab).
 
-→ Case list dan status terbaru ada di [repo README](https://github.com/DkHelmi/Security-Investigation-Lab#cases)
+### Sedang Dipelajari
 
-### Roadmap
-
-    Adversary Emulation    [active]
-    Network Forensics      [planned]
-    Network Security Mon   [planned]
-    Incident Response      [planned]
-    Cloud Security         [planned]
-
-### Currently Learning
-
-- Log correlation & cross-host timeline reconstruction
-- Network traffic analysis - Wireshark, Zeek
+- Log correlation dan cross-host timeline reconstruction
+- Network traffic analysis (Wireshark, Zeek)
 - Custom SIEM detection rules (Wazuh)
-- Active Directory attack paths & defenses
+- Active Directory attack paths dan defenses
 
-### Certs
+### Sertifikasi
 
 `CompTIA Security+` `CEH` `Fortinet NSE 1-3` `CCNP (in progress)`
 
-*All lab work documented at [Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab)*
+### Kontak
+
+Semarang, Indonesia
