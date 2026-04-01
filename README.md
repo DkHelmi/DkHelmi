@@ -1,26 +1,18 @@
-## Hardhika Helmi
+## Hi, Saya Hardhika Helmi
 
-Security analyst yang fokus di forensics dan incident response. Background di network engineering, sekarang transisi penuh ke DFIR.
+Security analyst dengan fokus di forensics dan incident investigation. Saat ini saya sedang memperdalam kemampuan di NFIR (Network Forensics & Incident Response), khususnya di area log analysis, timeline reconstruction, dan detection engineering.
 
-Saat ini kerja sebagai Forensics Analyst (kontrak), sambil bangun lab investigasi sendiri untuk sharpen skill di area yang paling saya minati: rekonstruksi insiden dari evidence yang tersedia, bukan dari perspektif attacker.
+Di [Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab), saya jalankan attack campaigns di lab mandiri yang saya buat, lalu investigasi dari sisi defender yang dimulai dari alert. Semua case didokumentasikan dari investigator POV, ditulis apa adanya termasuk dead ends dan hal yang missed selama proses investigasi.
 
-### Apa yang Saya Kerjakan
+### Yang Sedang Saya Kerjakan
 
-Saya simulate attack campaigns di lab environment (Active Directory, Wazuh SIEM, Sysmon), lalu investigasi dari sisi defender. Mulai dari alert, trace aktivitas, reconstruct timeline, identify detection gaps. Setiap case didokumentasikan sebagai catatan kerja investigator.
-
-Hasil kerjanya ada di [Security-Investigation-Lab](https://github.com/DkHelmi/Security-Investigation-Lab).
-
-### Sedang Dipelajari
-
-- Log correlation dan cross-host timeline reconstruction
-- Network traffic analysis (Wireshark, Zeek)
-- Custom SIEM detection rules (Wazuh)
-- Active Directory attack paths dan defenses
+- Investigasi insiden di lab AD environment (Wazuh, Sysmon, Windows Event Log)
+- Network forensics: traffic analysis, DNS anomaly, beaconing detection
+- Detection engineering: custom SIEM rules dan tuning detection logic
+- Active Directory attack path tracing
 
 ### Sertifikasi
 
 `CompTIA Security+` `CEH` `Fortinet NSE 1-3` `CCNP (in progress)`
-
-### Kontak
 
 Semarang, Indonesia
