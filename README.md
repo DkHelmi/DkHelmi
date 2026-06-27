@@ -1,4 +1,4 @@
-## Hi, Saya Hardhika Helmi
+## Hi, I'm Hardhika Helmi
 
 Security professional with 7+ years of experience across NOC operations, SOC monitoring, and incident investigation. My background spans both network engineering (BGP, MPLS, Cisco, Nokia) and cybersecurity (SIEM, EDR, forensics), which gives me a cross-layer perspective on security operations.
 
@@ -16,9 +16,12 @@ Security Operations: Splunk, Wazuh, Trend Micro Vision One, CrowdStrike, alert t
 Network Engineering: BGP, MPLS, OSPF, VPLS, Cisco, Nokia, Mikrotik, Wireshark
 Investigation & Analysis: Log correlation, timeline reconstruction, RCA, forensic reporting
 
-### Sertifikasi
+### Certifications
 
-`CompTIA Security+` `CEH` `Fortinet NSE 1-3` `CCNP (in progress)`
+- **CompTIA Security+**
+- **Certified Ethical Hacker (CEH)**
+- **Fortinet NSE 1-3**
+- *CCNP Enterprise (In Progress)*
 
 ### Connect
 
