@@ -7,17 +7,8 @@ Currently working as a Forensics Analyst, focusing on log correlation, incident 
 ### What I'm Working On
 
 - Building a home SOC lab for detection engineering and incident investigation practice
-- Developing custom SIEM rules and use cases (Wazuh, Sysmon, Windows Event Log)
 - Working through HTB Sherlocks for hands-on DFIR scenarios
-- Preparing for HTB CDSA certification
-
-### Repositories
-
-| Repo | Description |
-|------|-------------|
-| [Security-Investigation-Lab](link) | Home lab - attack simulation, investigation from defender's POV, detection rule development |
-| *more coming soon* | OSINT investigations, malware triage reports, threat intel analysis |
-
+- Writing a few articles to document my knowledge
 
 ### Core Skills
 
