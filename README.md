@@ -1,20 +1,29 @@
 ## Hi, I'm Hardhika Helmi
+**SOC Analyst L2 | Incident Response & Network Forensics**
 
-Security professional with 7+ years of experience across NOC operations, SOC monitoring, and incident investigation. My background spans both network engineering (BGP, MPLS, Cisco, Nokia) and cybersecurity (SIEM, EDR, forensics), which gives me a cross-layer perspective on security operations.
+Security professional with 7+ years across SOC monitoring, 
+incident investigation, and network operations. Background in 
+both cybersecurity (SIEM, EDR, forensics) and network engineering 
+(BGP, MPLS, Cisco, Nokia), giving me cross-layer visibility 
+into security incidents.
 
 Currently working as a Forensics Analyst, focusing on log correlation, incident timeline reconstruction, and root cause analysis.
 
 ### What I'm Working On
-
-- Building a home SOC lab for detection engineering and incident investigation practice
-- Working through HTB Sherlocks for hands-on DFIR scenarios
-- Writing a few articles to document my knowledge
+- Building a [home SOC lab](https://github.com/DkHelmi/SOC-Stack-HomeLab)
+- Documenting real investigation cases from an analyst perspective 
+  in my [Security Investigation Lab](https://github.com/DkHelmi/Security-Investigation-Lab)
+- Writing blue team articles in Bahasa Indonesia 
+  at [Catatan Blue Team](https://github.com/DkHelmi/Catatan-Blue-Team)
 
 ### Core Skills
+**Security:** Splunk, Wazuh, Trend Micro Vision One, CrowdStrike, 
+alert triage, incident response, forensic investigation
 
-Security Operations: Splunk, Wazuh, Trend Micro Vision One, CrowdStrike, alert triage, incident response
-Network Engineering: BGP, MPLS, OSPF, VPLS, Cisco, Nokia, Mikrotik, Wireshark
-Investigation & Analysis: Log correlation, timeline reconstruction, RCA, forensic reporting
+**Network:** BGP, MPLS, OSPF, VPLS, Cisco, Nokia, Mikrotik, Wireshark
+
+**Investigation:** Log correlation, timeline reconstruction, RCA, 
+forensic reporting, detection engineering
 
 ### Certifications
 
@@ -30,4 +39,5 @@ Investigation & Analysis: Log correlation, timeline reconstruction, RCA, forensi
 
 ---
 
-*Based in Semarang, Indonesia · Open to remote opportunities*
+*Based in Semarang, Indonesia · Open to remote opportunities · 
+Currently engaged as Forensic Analyst at TelkomSigma*
