@@ -31,12 +31,12 @@ forensic reporting, detection engineering
 - **Certified Ethical Hacker (CEH)**
 - **Fortinet NSE 1-3**
 - *CCNP Enterprise (In Progress)*
-
+<!--
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhikahelmi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhikahelmi7@gmail.com)
-
+-->
 ---
 
 *Based in Semarang, Indonesia · Open to remote opportunities · 
